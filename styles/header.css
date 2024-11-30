@@ -1,7 +1,7 @@
 #primary{
   padding-block: 20px;
 
-  div {
+  div { /* alinhando o menu e o  buscar */
     display: flex;
     align-items: center;
     gap: 8px;
@@ -21,5 +21,6 @@
     padding-block: 14px;
     border: 1px solid var(--stroke-color);
     border-inline:none;
+    justify-content: space-between;
 
 }
