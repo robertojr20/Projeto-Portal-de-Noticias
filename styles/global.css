@@ -51,13 +51,8 @@ h1 h2 h3 {
     font: inherit;
 }
 
-/*utilily-first */
-.grid {
-    display: grid;
-}
-
-.grid-flow-col{
-    grid-auto-flow: column;
+img {
+    max-width: 100%;
 }
 
 .container {
@@ -65,3 +60,6 @@ h1 h2 h3 {
     padding-inline: 32px;
     margin-inline: auto;
 }
+ main {
+    margin-top:40px;
+ }
