@@ -65,6 +65,7 @@ img {
     gap: 80px;
  }
 
+ /*Design dos Titulos*/
  .content-tag{
     display: inline-block;
     background-color: var(--brand-color-dark);
